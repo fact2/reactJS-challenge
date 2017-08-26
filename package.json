@@ -1,0 +1,16 @@
+{
+  "name": "next-todos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^2.4.4"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "standard"
+  },
+  "devDependencies": {}
+}
